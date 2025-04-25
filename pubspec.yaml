@@ -35,7 +35,7 @@ dependencies:
   home_widget: ^0.7.0
   flutter_secure_storage: ^9.2.2
   dio_brotli_transformer: ^2.0.0
-  dio_smart_retry: ^6.0.0
+  dio_smart_retry: ^7.0.1
   bloc: ^8.1.1
   flutter_bloc: ^8.1.2
   dio: ^5.2.1+1
